@@ -100,7 +100,7 @@ The backend architecture for a modern dating platform featuring real-time matchm
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naiduik-maxim&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Твій_GitHub_Username]&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiduik-maxim&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top Languages">
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=naiduik-maxim&hide_border=true&theme=transparent" alt="GitHub Streak">
