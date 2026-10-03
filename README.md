@@ -110,9 +110,7 @@ The backend architecture for a modern dating platform featuring real-time matchm
 
 ## 🎯 Current Focus
 
-Django
-API Development
-REST
-PostgreSQL
-NGINX
-ML-Engeniring
+* 🌐 **API Architecture:** Django & REST
+* 🗄️ **Databases:** PostgreSQL
+* ⚙️ **Infrastructure:** NGINX
+* 🧠 **New Horizons:** ML Engineering
