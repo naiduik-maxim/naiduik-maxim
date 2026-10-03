@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Maksym 👋
 
-<!--
-**naiduik-maxim/naiduik-maxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Student | Python Backend Developer
+🇺🇦 Ukraine
 
-Here are some ideas to get you started:
+I am an IT student interested in backend development, databases, web technologies, and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+**Languages**
+
+* Python
+* C / C++
+* Java
+* SQL
+
+**Backend**
+
+* Django
+* Django REST Framework
+* Flask
+
+**Databases**
+
+* PostgreSQL
+* MySQL
+* SQLite
+* PostGIS
+
+**Tools**
+
+* Docker
+* Git & GitHub
+* Linux
+* VS Code
+* IntelliJ IDEA
+
+### 🚀 Projects
+
+**🔥 Spark — Dating Platform**
+A web dating platform with user profiles, matching, interactions, and geolocation.
+
+`Python` `Django` `DRF` `PostgreSQL` `PostGIS` `Redis` `React` `Docker`
+
+**⏱️ Work Time Tracking System**
+A web system for tracking employees' working time, absences, and generating reports.
+
+`Python` `Flask` `MySQL` `PyMySQL` `Pydantic`
+
+### 📚 Currently Learning
+
+* Python Backend Development
+* REST API
+* Django
+* PostgreSQL
+* Docker
+* Software Architecture
+* Linux
+
+### 📫 Contact
+
+[GitHub](https://github.com/)
+
+---
+
+⭐ Thanks for visiting my profile!
